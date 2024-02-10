@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "Running server"
+
+node public/taxes-baby.js
